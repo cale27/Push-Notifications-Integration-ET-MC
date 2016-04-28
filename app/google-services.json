@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_id": "wede-test",
+    "project_number": "679503204526",
+    "name": "Wede Test"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679503204526:android:2ed93f8af6beef51",
+        "client_id": "android:com.example.scarlett.modelonowtest",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.scarlett.modelonowtest",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
